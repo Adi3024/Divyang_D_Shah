@@ -7,8 +7,9 @@
 4. 📊 Aspiring Data Analyst
 
 ## Academic Project ##
-Name of chapter 📘: Application of Moringa Oleifera for Wastewater Treatment 
-Name of Published in Book 📖  : Green Innovation, Sustainable Development & Circular Economy (2020)
+1. Name of chapter 📘: Application of Moringa Oleifera for Wastewater Treatment 
+2. Name of Published in Book 📖  : Green Innovation, Sustainable Development & Circular Economy (2020)
+ ** About Book **
 1. Natural coagulant usage for wastewater treatment
 2. Sustainable environmental solution
 3. Published as Co-Author
@@ -30,12 +31,12 @@ Name of Published in Book 📖  : Green Innovation, Sustainable Development & Ci
 6. ESG Reporting
 
 ## 🛠 Skills ##
-1. Environmental Skills
-2 .STP / ETP Operations
-3. RO & DM Plant Handling
-4. Wastewater Treatment
-5. Solid Waste Management
-6. Environmental Compliance
+## Environmental Skills ##
+1. STP / ETP Operations
+2. RO & DM Plant Handling
+3. Wastewater Treatment
+4. Solid Waste Management
+5. Environmental Compliance
 
 ## Technical Skills ##
 1. MS Excel
@@ -47,6 +48,3 @@ Name of Published in Book 📖  : Green Innovation, Sustainable Development & Ci
 ## 📫 Connect With Me ##
 LinkedIn: https://www.linkedin.com/in/er-divyang-shah-825608139?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 Email: shahdivyang1998@gmail.com
-
-
-gineer (2020 Graduate)🌱 Sustainability & Circular Economy Enthusiast
