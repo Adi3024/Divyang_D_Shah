@@ -7,9 +7,10 @@
 4. 📊 Aspiring Data Analyst
 
 ## Academic Project ##
-1. Name of chapter 📘: Application of Moringa Oleifera for Wastewater Treatment 
-2. Name of Published in Book 📖  : Green Innovation, Sustainable Development & Circular Economy (2020)
- ** About Book **
+1. CHAPTER NAME 📘: Application of Moringa Oleifera for Wastewater Treatment 
+2. PUBLISHER NAME 📖 : Green Innovation, Sustainable Development & Circular Economy (2020)
+ 
+** About Book **
 1. Natural coagulant usage for wastewater treatment
 2. Sustainable environmental solution
 3. Published as Co-Author
