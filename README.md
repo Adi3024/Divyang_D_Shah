@@ -5,7 +5,6 @@
 🎓 Environmental Engineer (2020 Graduate)
 🏛 City Manager – Solid Waste Management (Swachh Bharat Mission)
 📊 Aspiring Data Analyst
-🌱 Sustainability & Circular Economy Enthusiast
 
 ## Academic Project ##
 Name of chapter 📘: Application of Moringa Oleifera for Wastewater Treatment 
@@ -50,5 +49,4 @@ LinkedIn: https://www.linkedin.com/in/er-divyang-shah-825608139?utm_source=share
 Email: shahdivyang1998@gmail.com
 
 
-
-
+gineer (2020 Graduate)🌱 Sustainability & Circular Economy Enthusiast
