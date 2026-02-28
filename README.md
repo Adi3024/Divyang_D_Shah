@@ -47,5 +47,5 @@
 5. Data Cleaning
 
 ## 📫 Connect With Me ##
-LinkedIn: https://www.linkedin.com/in/er-divyang-shah-825608139?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-Email: shahdivyang1998@gmail.com
+1. LinkedIn: https://www.linkedin.com/in/er-divyang-shah-825608139?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+2. Email: shahdivyang1998@gmail.com
