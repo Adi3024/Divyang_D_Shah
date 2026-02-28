@@ -8,7 +8,7 @@
 🌱 Sustainability & Circular Economy Enthusiast
 
 ## Academic Project ##
-Name of chapter 📘: Application of Moringa Oleifera for Wastewater Treatment
+Name of chapter 📘: Application of Moringa Oleifera for Wastewater Treatment 
 Name of Published in Book 📖  : Green Innovation, Sustainable Development & Circular Economy (2020)
 1. Natural coagulant usage for wastewater treatment
 2. Sustainable environmental solution
