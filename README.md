@@ -1,10 +1,10 @@
 ## Divyang_D_Shah
 ## City Manager | Environmental Engineer | Future Data Analyst
 
-👋 Hi, I'm Divyang Daxeshbhai Shah
-🎓 Environmental Engineer (2020 Graduate)
-🏛 City Manager – Solid Waste Management (Swachh Bharat Mission)
-📊 Aspiring Data Analyst
+1. 👋 Hi, I'm Divyang Daxeshbhai Shah
+2. 🎓 Environmental Engineer (2020 Graduate)
+3. 🏛 City Manager – Solid Waste Management (Swachh Bharat Mission)
+4. 📊 Aspiring Data Analyst
 
 ## Academic Project ##
 Name of chapter 📘: Application of Moringa Oleifera for Wastewater Treatment 
@@ -22,12 +22,12 @@ Name of Published in Book 📖  : Green Innovation, Sustainable Development & Ci
 6. Statistics for Data Science
 
 ## 🎯 Career Goal ##
-A. To combine Environmental Engineering domain knowledge with Data Analytics to work in:
-B. Environmental Data Analysis
-C. Sustainability Analytics
-D. Government Data Projects
-E. Smart City & Waste Analytics
-F. ESG Reporting
+1. To combine Environmental Engineering domain knowledge with Data Analytics to work in:
+2. Environmental Data Analysis
+3. Sustainability Analytics
+4. Government Data Projects
+5. Smart City & Waste Analytics
+6. ESG Reporting
 
 ## 🛠 Skills ##
 1. Environmental Skills
